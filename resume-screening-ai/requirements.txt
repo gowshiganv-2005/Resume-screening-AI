@@ -1,0 +1,10 @@
+flask
+flask-cors
+scikit-learn
+pandas
+numpy
+PyPDF2
+docx2txt
+nltk
+requests
+python-dotenv
